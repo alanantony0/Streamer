@@ -1,0 +1,11 @@
+.Upladcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .card-container {
+    width: 400px;
+  }
+  

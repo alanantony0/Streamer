@@ -1,0 +1,19 @@
+.carousel-container {
+  display: flex;
+  justify-content: center;
+}
+
+.card-container {
+  width: 240px;
+  margin: 0 10px;
+  border: 2px solid #ccc;
+}
+
+.card-image {
+  width: 100%;
+  background-color: #f0f0f0;
+}
+
+.card-title {
+  text-align: center;
+}
